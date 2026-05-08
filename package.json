@@ -1,0 +1,10 @@
+{
+  "name": "cblz-landing-backend",
+  "private": true,
+  "packageManager": "pnpm@9.15.0",
+  "scripts": {
+    "dev": "pnpm --filter server dev",
+    "build": "pnpm --filter server build",
+    "start": "pnpm --filter server start"
+  }
+}
